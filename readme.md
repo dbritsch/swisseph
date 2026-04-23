@@ -1,3 +1,15 @@
+> ## 📌 Fork notice
+>
+> This is a **snapshot mirror** maintained by [StellarTies](https://stellarties.com)
+> for build reliability and supply-chain insulation. It contains no local changes
+> — every commit is upstream's. The repo is archived (read-only) by design.
+>
+> - **Looking for Swiss Ephemeris?** Go to [aloistr/swisseph](https://github.com/aloistr/swisseph) upstream.
+> - **Contributions / issues / questions** — please direct them upstream. We don't accept PRs here.
+> - **Why we keep a mirror** — a handful of our build pipelines need a stable, non-rate-limited clone target for a specific pinned commit. Upstream has not been anything but reliable; this is defense-in-depth, not a complaint.
+
+---
+
 readme.md  created 5-oct-2017 by Alois Treindl
 
 last update 14-apr-2026
